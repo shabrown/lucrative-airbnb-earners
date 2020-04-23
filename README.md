@@ -25,10 +25,10 @@ To answer these questions, I will be exploring the Seattle Airbnb dataset availa
 ## File Descriptions <a name="files"></a>
 
 1 notebook - Airbnb.ipynb contains codes and plots.
-Datasets:
-reviews.csv
-calendar.csv
-listings.csv
+Datasets:   
+reviews.csv   
+calendar.csv   
+listings.csv   
 
 ## Results<a name="results"></a>
 
